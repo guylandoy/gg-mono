@@ -1,0 +1,9 @@
+{
+  "name": "lit-nextjs-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/lit-nextjs-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["lit-nextjs"],
+  "// targets": "to see all targets run: nx show project lit-nextjs-e2e --web",
+  "targets": {}
+}
